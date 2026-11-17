@@ -1,4 +1,4 @@
-# Practical No. 2 --> Job Sequencing with Deadlines using Greedy Algorithm
+# Practical No. 3 --> Job Sequencing with Deadlines using Greedy Algorithm
 
 class Job:
     def __init__(self, job_id, deadline, profit):

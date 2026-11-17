@@ -1,4 +1,4 @@
-# Practical No. 3 --> Fractional Knapsack
+# Practical No. 4 --> Fractional Knapsack
 
 class Item:
     def __init__(self, value, weight):   # ✅ Correct constructor

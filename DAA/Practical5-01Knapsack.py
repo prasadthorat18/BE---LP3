@@ -1,4 +1,4 @@
-# Practical No. 4 --> 0-1 Knapsack Problem using Dynamic Programming (with selected items)
+# Practical No. 5 --> 0-1 Knapsack Problem using Dynamic Programming (with selected items)
 
 def knapsack(weights, values, capacity):
     n = len(values)
